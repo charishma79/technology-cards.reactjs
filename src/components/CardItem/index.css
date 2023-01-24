@@ -1,0 +1,70 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+/* Write CSS code here. */
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+/* Write CSS code here. */
+* {
+  box-sizing: border-box;
+  margin: 10px;
+}
+
+.card-items-container {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+
+  max-width: 350px;
+}
+
+.course-name {
+  font-size: 25px;
+  color: #171f46;
+  font-weight: bold;
+  font-family: Roboto;
+}
+
+.course-text {
+  font-size: 18px;
+  color: #64748b;
+  font-family: Roboto;
+}
+
+.image-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.image {
+  height: 70px;
+  width: 90px;
+}
